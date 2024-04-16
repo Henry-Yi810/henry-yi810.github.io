@@ -16,4 +16,22 @@
 <p><strong>记录今天！</strong></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>独立站的建立</title>
+    <url>/2024/04/16/%E7%8B%AC%E7%AB%8B%E7%AB%99%E7%9A%84%E5%BB%BA%E7%AB%8B/</url>
+    <content><![CDATA[<h1 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h1><p>这篇博客旨在记录我从0开始搭建一个电商独立站的过程</p>
+<span id="more"></span>
+
+<h1 id="独立站的选择"><a href="#独立站的选择" class="headerlink" title="独立站的选择"></a>独立站的选择</h1><p>搭建独立站的第一步就是做出选择，开源还是SaaS。</p>
+<p>下文主要讨论开源独立站与SaaS独立站的利弊</p>
+<h4 id="SaaS"><a href="#SaaS" class="headerlink" title="SaaS"></a>SaaS</h4><p>目前市场上SaaS的独立站最富盛名的是Shopify。深入了解后Shopify的优缺点如下：</p>
+<h5 id="优点"><a href="#优点" class="headerlink" title="优点"></a>优点</h5><ol>
+<li>技术含量低，在官网注册账号后，直接开始定制化部署</li>
+</ol>
+<h5 id="缺点"><a href="#缺点" class="headerlink" title="缺点"></a>缺点</h5><ol>
+<li>在注册的一部就已经被告知会遇到诸多麻烦，因为Shopity是一个平台，目前Shopity对中国地区（包括港澳台）的支持非常不友好，除非将公司注册在外地，但也会涉及到许多国际交易的问题。</li>
+</ol>
+<p>![](Shopify shortcut 1.png)</p>
+]]></content>
+  </entry>
 </search>
